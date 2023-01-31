@@ -10,7 +10,7 @@ dynamic = ["version", "description"]
 dependencies = [
     "Flask==2.1.2",
     "flask-mongoengine==0.9.5",
-    "Pillow==9.2.0",
+    "Pillow==9.3.0",
     "boto3==1.24.24"
 ]
 
